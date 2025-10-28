@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenova\\Desktop\\tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|solutionrelative:tasks\\4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|solutionrelative:tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|solutionrelative:tasks\\new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|c:\\users\\lenova\\desktop\\tasks\\tasks\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|solutionrelative:tasks\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|c:\\users\\lenova\\desktop\\tasks\\tasks\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E22B7FF-C151-40DF-9854-76569B38F2D1}|tasks\\tasks.csproj|solutionrelative:tasks\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\4.cs",
+              "RelativeDocumentMoniker": "tasks\\4.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\4.cs",
+              "RelativeToolTip": "tasks\\4.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:43:31.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "files.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\files.cs",
+              "RelativeDocumentMoniker": "tasks\\files.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\files.cs",
+              "RelativeToolTip": "tasks\\files.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:19:36.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "new2.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\new2.cs",
+              "RelativeDocumentMoniker": "tasks\\new2.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\new2.cs",
+              "RelativeToolTip": "tasks\\new2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:05:35.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "new.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\new.cs",
+              "RelativeDocumentMoniker": "tasks\\new.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\new.cs",
+              "RelativeToolTip": "tasks\\new.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:03:47.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\Program.cs",
+              "RelativeDocumentMoniker": "tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Desktop\\tasks\\tasks\\Program.cs",
+              "RelativeToolTip": "tasks\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:01:06.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

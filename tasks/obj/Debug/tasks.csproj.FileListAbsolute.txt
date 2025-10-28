@@ -1,0 +1,8 @@
+C:\Users\Lenova\Desktop\tasks\tasks\bin\Debug\tasks.exe.config
+C:\Users\Lenova\Desktop\tasks\tasks\bin\Debug\tasks.exe
+C:\Users\Lenova\Desktop\tasks\tasks\bin\Debug\tasks.pdb
+C:\Users\Lenova\Desktop\tasks\tasks\obj\Debug\tasks.csproj.AssemblyReference.cache
+C:\Users\Lenova\Desktop\tasks\tasks\obj\Debug\tasks.csproj.CoreCompileInputs.cache
+C:\Users\Lenova\Desktop\tasks\tasks\obj\Debug\tasks.exe
+C:\Users\Lenova\Desktop\tasks\tasks\obj\Debug\tasks.pdb
+C:\Users\Lenova\Desktop\tasks\tasks\obj\Debug\tasks.exe.config
