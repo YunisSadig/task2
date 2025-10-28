@@ -43,11 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="4.cs" />
     <Compile Include="files.cs" />
-    <Compile Include="new.cs" />
-    <Compile Include="new2.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
