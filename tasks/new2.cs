@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text.RegularExpressions;
 
 class Employees
 {
@@ -12,23 +11,20 @@ class Employees
         get { return salary; }
         set
         {
+            
             if (value < 250)
-                throw new Exception("Salary cannot be less than 250.");
-            salary = value;
+                salary = 250;
+            else
+                salary = value;
         }
     }
 
     public Employees(string name, string surname, double salary)
     {
         
-        if (!Regex.IsMatch(name, @"^[A-Z][a-zA-Z]*$"))
-            throw new Exception("Name must start with a capital letter and contain only letters.");
-        if (!Regex.IsMatch(surname, @"^[A-Z][a-zA-Z]*$"))
-            throw new Exception("Surname must start with a capital letter and contain only letters.");
-
         Name = name;
         Surname = surname;
-        Salary = salary; 
+        Salary = salary;
     }
 
     public override string ToString()
@@ -36,3 +32,17 @@ class Employees
         return $"{Name} {Surname}, Salary: {Salary}";
     }
 }
+
+
+class Program
+{
+    static void Main()
+    {
+        Employees emp1 = new Employees("Namiq", "Jabbarov", 400);
+        Employees emp2 = new Employees("ali", "veli", 200); 
+
+        Console.WriteLine(emp1);
+        Console.WriteLine(emp2);
+    }
+}
+
